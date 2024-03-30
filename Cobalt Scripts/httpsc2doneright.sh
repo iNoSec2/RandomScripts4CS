@@ -18,7 +18,7 @@ echo ' HTTPS C2 Done Right Setup Script | [Updated]: 2022 by @ChrisTruncer'
 echo '=========================================================================='
 echo ' Originally Written by Alex Rymdeko-Harvey | [Twitter]: @KillSwitch-GUI'
 echo '=========================================================================='
-echo ' [Web]: Https://www.fortynorthsecurity.com | [Twitter]: @FortyNorthSec'
+echo ' [Web]: Https://redsiege.com | [Twitter]: @RedSiege'
 echo '=========================================================================='
 
 
